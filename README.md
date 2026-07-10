@@ -8,7 +8,7 @@
 
 直接使用上述脚本前请在终端输入```pip install pywin32```以安装脚本依赖
 
-**直接使用 [Releases](https://github.com/EJIAOFEN/2b2t.xin-queue-tool/releases) 中的无需安装**<sup>(指v0.2+)</sup>
+**直接使用 [Releases](https://github.com/EJIAOFEN/2b2t.xin-queue-tool/releases) 中 .exe 脚本无需安装**<sup>(指v0.2+)</sup>
 
 脚本具体使用方法见[Releases](https://github.com/EJIAOFEN/2b2t.xin-queue-tool/releases)
 
